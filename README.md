@@ -66,6 +66,8 @@
 ### 分析データ
 
 分析データとして，同じ内容のファイルを3つ用意しています。自分の環境にあったものを利用してください。
-Microsoft Excelを利用する学生向けの Semi_2021_Excel.xlsx ，
-Windowsユーザーで，Rを利用する学生向けに，文字コードがShift-JIS，改行コードをCR+LFとした Semi_2021_Win.csv ,
-Macユーザーで，Rを利用する学生向けに，文字コードがUTF-8，改行コードをLFとして Semi_2021_Mac.csv
+
+- Microsoft Excelを利用する学生向けの [Semi_2021_Excel.xlsx](Semi_2021_Excel.xlsx) ，
+- Windowsユーザーで，Rを利用する学生向けに，文字コードがShift-JIS，改行コードをCR+LFとした Semi_2021_Win.csv ,
+- Macユーザーで，Rを利用する学生向けに，文字コードがUTF-8，改行コードをLFとして Semi_2021_Mac.csv
+
